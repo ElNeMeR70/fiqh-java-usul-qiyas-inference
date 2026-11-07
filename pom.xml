@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>fiqh-java-usul-qiyas-inference</artifactId>
+  <version>1.0.0</version>
+  <name>Usul Al-Fiqh Analogical Reasoning (Qiyas: Asl, Far', Illah, Hukm)</name>
+</project>
